@@ -1,0 +1,5 @@
+{
+    "MONGO_URI_SERVER": "mongodb+srv://tutoria_c4_domingo:tutoria_c4_domingo@cluster0.d3qeivk.mongodb.net/?retryWrites=true&w=majority" ,
+    "MONGO_URI_LOCAL": "mongodb://localhost" , 
+    "LOCAL_PORT": 27017
+    }
